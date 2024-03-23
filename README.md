@@ -3,12 +3,10 @@ Requirements (delete this section after)
 - Upload your build file to the repository
 - Add screenshots of your application (optional)
 
-## Project Details 
-## Project Name
-
-## Trailer Video (1 minute max, public youtube link)
-
-## Project Description (250 words max)
+# Project Details 
+- Project Name
+- Trailer Video (1 minute max, public youtube link)
+- Project Description (250 words max)
 
 ## Team Name & Members
 
