@@ -1,7 +1,8 @@
 Requirements (delete this section after)
-- Fill out this README
-- Upload your build file to the repository
-- Add screenshots of your application (optional)
+- Create a repository with your team name and number (TEAM_NAME_NUMBER)
+- Create a README with the same information as this one
+- Upload your build file to your repository
+- Add the repository link to your project submission form
 
 # Project Details 
 - Project Name
