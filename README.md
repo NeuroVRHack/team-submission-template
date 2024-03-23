@@ -1,32 +1,25 @@
-===================================
-(Delete this section later)
-Requirements
+Requirements (delete this section after)
 - Fill out this README
 - Upload your build file to the repository
 - Add screenshots of your application (optional)
-===================================
 
-## Project Details 
-# Project Name
+##Project Details 
+## Project Name
 
-# Trailer Video (1 minute max, public youtube link)
+## Trailer Video (1 minute max, public youtube link)
 
-# Project Description (250 words max)
+## Project Description (250 words max)
 
-# Team Name & Members
-
+## Team Name & Members
 
 ## Technologies Used & References
 - Technologies/Features used (meta presence platform? XR vs VR vs AR? What head-mounted device?)
 - References/Resources (frameworks, libraries, assets)
 
-## Setup
-# Requirements 
+# Setup
+## Requirements 
 What would people need to try your project? Hardware? Software?
 
-# Instructions
+## Instructions
 How would someone set up and run your project?
-
-
-## Thank yous/acknowledgements 
 
